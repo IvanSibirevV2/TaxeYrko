@@ -10,7 +10,7 @@
     <input type="text" name="key"></input>
     <input type="submit" name="send" value="Отправить" />
 </form>
-<script>
+<script type="text/javascript">
 function sendForm(e){
      
     // получаем значение поля key
