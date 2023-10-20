@@ -1,3 +1,3 @@
 <!DOCTYPE>	
 # TaxeYrko
-<p><small>Привет</small> <b>мир</b>!!!</p>
+<p><samp>Привет</samp> <b>мир</b>!!!</p>
